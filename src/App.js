@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import "./sass/main.scss";
+import "./sass/main.css";
 
 // Components
 import Header from "./components/Header";
