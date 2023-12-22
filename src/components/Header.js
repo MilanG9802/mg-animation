@@ -16,7 +16,7 @@ const Header = () => {
       <div className="header-inner">
         <div className="logo" href="/" role="link">
           <a href="/" style={{ textDecoration: "none", color: "inherit" }}>
-            Milan
+            Asia Pacific
           </a>
         </div>
         <nav className="nav">
